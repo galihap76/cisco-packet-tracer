@@ -20,7 +20,7 @@ Penjelasan singkat sebagai pondasi awal bagaimana cara membuat jaringan komputer
 - **Apa itu?**: Alamat yang digunakan untuk mengidentifikasi sebuah subnet.
 - **Fungsi**: Untuk mengidentifikasi dan mengarahkan lalu lintas ke jaringan tertentu. Network address biasanya di gunakan pada router, switch, dan perangkat keras jaringan lainnya.
 
-- **Contoh**: Jika subnet adalah 192.168.1.0/24, maka **192.168.1.0** adalah network address. Ini tidak dapat digunakan oleh perangkat di jaringan individu seperti laptop atau smartphone.
+- **Contoh**: Jika subnet adalah 192.168.1.0/24, maka **192.168.1.0** adalah network address. Ini tidak dapat digunakan oleh perangkat di jaringan individu seperti komputer atau smartphone.
 
 ### 4. **Broadcast Address**
 - **Apa itu?**: Alamat yang digunakan untuk mengirim pesan ke semua perangkat dalam subnet.
